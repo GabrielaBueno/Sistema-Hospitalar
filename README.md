@@ -36,7 +36,7 @@ O Sistema Hospitalar visa melhorar a segurança e a eficiência no gerenciamento
 
 ## 👥 Autores
 - **Caio Diogo da Silva**
-- **Gabriela dos Reis Bueno**
+- **Gabriela Dos Reis Bueno**
 - **Luiz Miguel Nunes**
 
 ## 📂 Link do Repositório
